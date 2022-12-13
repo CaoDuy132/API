@@ -1,0 +1,1 @@
+<a href="{{ $url }}"><button>Ấn vào đây để kích hoạt tài khoản</button></a>
